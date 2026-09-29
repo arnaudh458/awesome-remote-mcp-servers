@@ -523,7 +523,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Give coding agents organizational context from code, docs, issues, and conversations.
 - [Unipile](https://developer.unipile.com/docs/mcp) `https://developer.unipile.com/mcp?branch=v2.0`
   [![Unipile MCP connector](https://glama.ai/mcp/connectors/com.unipile.developer/unipile/badges/score.svg)](https://glama.ai/mcp/connectors/com.unipile.developer/unipile)
-  🔑 - Reads and calls the Unipile API for LinkedIn, WhatsApp, Instagram, Telegram, email and calendar from coding agents.
+  🔓 - Reads and calls the Unipile API for LinkedIn, WhatsApp, Instagram, Telegram, email and calendar from coding agents.
 - [VibeFix](https://vibe-fixer.com) `https://vibe-fixer.com/mcp`
   [![VibeFix MCP connector](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix)
   🔓 - Triage a broken Lovable, Base44, v0, Bolt or Replit app: the likely cause and the fix.
